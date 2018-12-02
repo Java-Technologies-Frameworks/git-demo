@@ -9,6 +9,11 @@ public class App
 	public void addData(String data)
 	{
 		System.out.println("inside addData method of String type:");
+		if(data.equals("java techie prasanna"))
+				{
+			       System.out.println("conditioncheck::>>");
+				}
+				
 	}
     public static void main( String[] args )
     {

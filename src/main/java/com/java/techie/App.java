@@ -10,4 +10,12 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    //adding one method
+    
+    public void addNewBranchMethod()
+    {
+    	System.out.println("adding a method to a new branch");
+    }
+    
 }
